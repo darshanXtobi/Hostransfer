@@ -1,8 +1,8 @@
-# tobi
+# tabi
 
 ## Secure File Transfer Tool
 
-**tobi**, a secure file transfer tool designed by 0x4m4. This tool ensures your files are transferred safely and confidentially over the network using strong encryption methods.
+**tabi**, a secure file transfer tool designed by 0x4m4. This tool ensures your files are transferred safely and confidentially over the network using strong encryption methods.
 
 ### Features
 
@@ -52,14 +52,14 @@ To run tobi, you need to have the following installed:
     ```
 
 2. **Sending a File**:
-    - Open **tobi** and select "Send".
+    - Open **tabi** and select "Send".
     - Enter the recipient's host address and port.
     - Choose the file you want to send.
     - Enter a secure password.
     - Click "Execute" to send the file.
 
 3. **Receiving a File**:
-    - Open **tobi** and select "Receive".
+    - Open **tabi** and select "Receive".
     - Enter the port to listen on.
     - Enter the password that the sender will use.
     - Click "Execute" to start listening for incoming files.
@@ -68,7 +68,7 @@ To run tobi, you need to have the following installed:
 
 #### Sending a File:
 
-1. Start the **tobi** tool.
+1. Start the **tabi** tool.
 2. Select "Send".
 3. Enter the recipient's host (e.g., `192.168.1.4`).
 4. Enter the port (e.g., `12345`).
@@ -78,7 +78,7 @@ To run tobi, you need to have the following installed:
 
 #### Receiving a File:
 
-1. Start the **tobi** tool.
+1. Start the **tabi** tool.
 2. Select "Receive".
 3. Enter the port (e.g., `12345`).
 4. Enter the same password used by the sender (e.g., `mypassword`).
@@ -98,7 +98,7 @@ To run tobi, you need to have the following installed:
 
 ### Disclaimer
 
-While **tobi** provides strong encryption, it is essential to use a strong, unique password and ensure that the password is shared securely between sender and receiver. The security of the file transfer relies on the secrecy and complexity of the password used.
+While **tabi** provides strong encryption, it is essential to use a strong, unique password and ensure that the password is shared securely between sender and receiver. The security of the file transfer relies on the secrecy and complexity of the password used.
 
 ### Contact
 
@@ -106,6 +106,6 @@ For any issues, suggestions, or contributions, feel free to reach out or create 
 
 ---
 
-Thank you for using **tobi**. Secure your file transfers with confidence!
+Thank you for using **tabi**. Secure your file transfers with confidence!
 
-- **contact@0x4m4.com**
+- **darshanchipure@gmail.com**
