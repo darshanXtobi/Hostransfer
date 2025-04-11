@@ -2,7 +2,7 @@
 
 ## Secure File Transfer Tool
 
-**tabi**, a secure file transfer tool designed by 0x4m4. This tool ensures your files are transferred safely and confidentially over the network using strong encryption methods.
+**tabi**, a secure file transfer tool designed by Tobi. This tool ensures your files are transferred safely and confidentially over the network using strong encryption methods.
 
 ### Features
 
